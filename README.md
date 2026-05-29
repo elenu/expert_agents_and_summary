@@ -74,3 +74,4 @@ This project is a concise example of parallel expert-agent prompting rather than
 
 ## License
 
+MIT license.
